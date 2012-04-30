@@ -13,7 +13,7 @@ for path, files in paths_and_files:
 setup(
     name="armstrong.templates.paywall",
     version="1.0alpha.0",
-    description="Provides a basic project template for an Armstrong project",
+    description="Provides a basic example of a paywall inside Armstrong",
     long_description=open("README.rst").read(),
     author='Texas Tribune & Bay Citizen',
     author_email='dev@armstrongcms.org',
